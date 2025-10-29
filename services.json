@@ -1,0 +1,22 @@
+{
+  "services": [
+    {
+      "name": "Limpieza general del hogar",
+      "category": "Limpieza",
+      "description": "Servicio de limpieza regular para casa o departamento.",
+      "price_mxn": 350
+    },
+    {
+      "name": "Limpieza profunda",
+      "category": "Limpieza",
+      "description": "Limpieza detallada ideal para mudanzas o temporada.",
+      "price_mxn": 860
+    },
+    {
+      "name": "Plomería básica",
+      "category": "Plomería",
+      "description": "Reparaciones menores de fugas y conexiones.",
+      "price_mxn": 600
+    }
+  ]
+}
